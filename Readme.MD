@@ -105,7 +105,7 @@ https://github.com/racmathafidz/racxstudio/graphs/contributors
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
